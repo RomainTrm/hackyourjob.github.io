@@ -10,12 +10,16 @@
       "link": "https://twitter.com/RomainTrm"
     },
     {
+      "type": "website",
+      "link": "https://romainberthon.dev/"
+    },
+    {
       "type": "linkedin",
       "link": "https://www.linkedin.com/in/romain-berthon-254977101"
     },
     {
       "type": "blog",
-      "link": "https://rberthon.wordpress.com/"
+      "link": "https://romainberthon.blog/"
     },
     {
       "type": "github",
@@ -25,8 +29,12 @@
   ],
   "skills": [
     ".NET",
-   "C#",
-   "F#"
+    "C#",
+    "F#",
+    "TDD",
+    "DDD",
+    "CQRS",
+    "Event Sourcing"
   ],
   "cities": ["Lyon"]
 }
